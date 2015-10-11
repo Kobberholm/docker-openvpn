@@ -1,4 +1,5 @@
 # OpenVPN for Docker
+This is a form of https://github.com/kylemanna/docker-openvpn.
 
 [![Build Status](https://travis-ci.org/kylemanna/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
 
